@@ -1,0 +1,5 @@
+# Register a11ychecker and balloonpanel plugin for ckeditor
+editor:
+  externalPlugins:
+    a11ychecker: { resource: "EXT:ckeditor_a11ychecker/Resources/Public/JavaScript/Plugins/a11ychecker/plugin.js" }
+    balloonpanel: { resource: "EXT:ckeditor_a11ychecker/Resources/Public/JavaScript/Plugins/balloonpanel/plugin.js" }
